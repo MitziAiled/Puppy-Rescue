@@ -1,0 +1,57 @@
+body{
+	background-image:url("../img/registrar_mascota.jpg");
+    background-size: 100% 100%;
+}
+
+#rectangle1{
+    width:560px;
+    height:470px;
+    background-color:#36362C;
+    border-radius: 50px ;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+#rectangle2{
+    width:560px;
+    height:200px;
+    background-color:#36362C;
+    border-radius: 50px ;
+    margin-top: -500px;
+    margin-left: 700px;
+}
+
+input{
+    margin-left: 30px;
+    width: 450px;
+    height: 20px;
+    border-radius: 50px;
+    position: relative;
+    margin-top: 35px;
+}
+
+label{
+    color:white;
+    font-family: Felix Titling;
+    margin-left: 30px;
+    position: absolute;
+    margin-top: 10px;
+    height: 15px;
+}
+
+
+#enviar_formulario{
+    color:white;
+    background-color: #825534;
+    height: 30px;
+    width: 150px;
+    font-family: Felix Titling;
+    border-radius: 50px;
+    position: absolute; 
+    left: 700px;
+    top: 480px;
+}
+
+a{
+    color:white;
+}

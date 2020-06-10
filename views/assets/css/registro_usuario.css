@@ -1,0 +1,64 @@
+body{
+	background-image:url("../img/fondo.jpg");
+        background-size: 100% 100%;
+}
+
+#rectangle{
+    width:560px;
+    height:200px;
+    background-color:#5D907D;
+    border-radius: 50px ;
+    margin-top: 200px;
+    margin-left: 650px;
+}
+
+label{
+    font-family: Felix Titling;
+    margin-left: 30px;
+    position: absolute;
+    margin-top: 20px;
+}
+
+#mascota{
+    margin-left: 250px;
+}
+
+#crear_usuario{
+    margin-left: 130px;
+}
+
+input{
+    margin-left: 30px;
+    width: 500px;
+    height: 30px;
+    border-radius: 50px;
+    position: relative;
+    margin-top: 40px;
+}
+
+#volver{
+    background-color: #825534;
+    height: 30px;
+    width: 150px;
+    font-family: Felix Titling;
+    border-radius: 50px;
+    position: absolute; 
+    left: 740px;
+    
+}
+
+#enviar_formulario{
+    color:white;
+    background-color: #825534;
+    height: 30px;
+    width: 150px;
+    font-family: Felix Titling;
+    border-radius: 50px;
+    position: absolute; 
+    left: 970px;
+    top: 355px;
+}
+
+a{
+    color:white;
+}
